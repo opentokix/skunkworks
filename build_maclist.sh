@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# This scripts take a list on the form of on IP per line
+# 192.168.0.1
+# 192.168.0.2 etc. 
+
 
 if [ ! -n  "$1" ]
 then 
